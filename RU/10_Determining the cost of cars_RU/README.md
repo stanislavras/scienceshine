@@ -20,7 +20,11 @@
 
 ## Используемые библиотеки
 *pandas*
+
 *sklearn*
+
 *lightgbm*
+
 *matplotlib.pyplot*
+
 *seaborn*
