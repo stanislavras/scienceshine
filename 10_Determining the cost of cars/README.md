@@ -25,6 +25,6 @@
 
 *lightgbm*
 
-*matplotlib.pyplot*
+*matplotlib*
 
 *seaborn*
